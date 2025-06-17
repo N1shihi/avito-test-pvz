@@ -1,0 +1,5 @@
+env: "local"
+storage_path: "postgres://postgres:admin1234@localhost:5432/pvz_service?sslmode=disable"
+
+server:
+  address: ":8080"

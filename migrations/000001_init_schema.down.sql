@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS "product";
+DROP TABLE IF EXISTS "reception";
+DROP TABLE IF EXISTS "pvz";
+DROP TABLE IF EXISTS "users";
+
+DROP TYPE IF EXISTS product_type;
+DROP TYPE IF EXISTS reception_status;
+DROP TYPE IF EXISTS city;
+DROP TYPE IF EXISTS user_role;
